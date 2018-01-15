@@ -1,0 +1,11 @@
+{
+  "name": "floxim/file-storage",
+  "autoload": {
+    "psr-4": {
+      "Floxim\\FileStorage\\": "src/"
+    }
+  },
+  "require": {
+    "aws/aws-sdk-php" : "*"
+  }
+}
